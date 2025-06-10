@@ -1,0 +1,5 @@
+PyQt6>=6.4.0
+pydub>=0.25.1
+soundfile>=0.12.1
+numpy>=1.24.0
+cx_Freeze>=6.15.0 
