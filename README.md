@@ -19,7 +19,7 @@ A professional GUI application for converting audio files to ITU G.711 μ-law fo
 1. Ensure you have Python 3.8 or higher installed
 2. Clone the repository:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/ulaw-converter.git
+   git clone https://github.com/Slurpas/ulaw-converter.git
    cd ulaw-converter
    ```
 3. Install the required dependencies:
@@ -37,7 +37,7 @@ A professional GUI application for converting audio files to ITU G.711 μ-law fo
 
 ### From Executable
 
-1. Download the latest release from the [Releases](https://github.com/YOUR_USERNAME/ulaw-converter/releases) page
+1. Download the latest release from the [Releases](https://github.com/Slurpas/ulaw-converter/releases) page
 2. Extract the ZIP file
 3. Run `AudioConverter.exe`
 
